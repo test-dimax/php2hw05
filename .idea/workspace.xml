@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efaa2d81-0f58-47ca-9e89-c21a4649f0a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php2hw05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Controllers/Error/NotFound.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Controllers/Error/Sql.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Exceptions/ErrorsException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Exceptions/FillException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Exceptions/NotFoundException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Exceptions/SqlException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Exceptions/ValidationException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Logger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Templates/Errors/notFound.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/Templates/Errors/sql.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fUWDLPf8HUMVVyksEiCrhFt7II" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/App/Exceptions" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\prog\OSPanel\domains\php2hw05\App\Exceptions" />
+      <recent name="D:\prog\OSPanel\domains\php2hw05\App\Controllers\Error" />
+      <recent name="D:\prog\OSPanel\domains\php2hw05\App\Templates\Errors" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efaa2d81-0f58-47ca-9e89-c21a4649f0a5" name="Default Changelist" comment="" />
+      <created>1596273030493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596273030493</updated>
+      <workItem from="1596273033100" duration="11619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
