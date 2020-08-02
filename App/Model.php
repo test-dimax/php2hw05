@@ -178,7 +178,7 @@ abstract class Model
                 }
             }
         }
-        if ($errors->all()) {
+        if ($errors->emptyExceptions()) {
             throw $errors;
         }
     }

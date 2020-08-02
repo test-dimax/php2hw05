@@ -25,4 +25,12 @@ class ErrorsException extends \Exception
         return $this->errors;
     }
 
+    /**
+     * @return bool
+     */
+    public function emptyExceptions()
+    {
+        return empty($this->errors);
+    }
+
 }
